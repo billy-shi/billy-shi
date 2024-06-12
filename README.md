@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @billy-shi
 - 👀 I mainly write small programs to automate repeated problem-solving processes
+- ❌ Everything in public or private repositories linked to this account has no relation to my work at Apple
